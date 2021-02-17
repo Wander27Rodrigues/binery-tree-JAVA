@@ -1,2 +1,2 @@
-1 -  Criar uma arvore em python
+1 -  Criar uma arvore em uma linguagem de sua escolha
 2 -  Criar um arquivo que liste esses valores
